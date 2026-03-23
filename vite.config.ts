@@ -11,6 +11,6 @@ export default defineConfig(() => {
         '@': path.resolve(__dirname, '.'),
       },
     },
-    base: '/MITA-project-polimi-test'
+    base: '/MITA-project-polimi-test/'
   };
 });
