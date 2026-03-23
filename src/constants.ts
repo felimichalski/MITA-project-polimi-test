@@ -20,7 +20,7 @@ export const CONTENT_UNITS: ContentUnit[] = [
     title: 'Le due madri',
     category: 'Masterpiece',
     description: 'Giovanni Segantini\'s 1889 masterpiece, a cornerstone of Italian Divisionism exploring the universal theme of motherhood.',
-    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/Segantini_-_LE_DUE_MADRI%2C_1892%2C_lot.10.jpg',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Segantini_-_Die-beiden-M%C3%BCtter-1889_Doppelkarte_ohne-Rand.jpg',
     audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3',
     location: { lat: 45.4726, lng: 9.2024, name: 'Divisionism Wing' },
     details: [
