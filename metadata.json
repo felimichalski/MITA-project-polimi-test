@@ -1,0 +1,5 @@
+{
+  "name": "GAM Milano Explorer",
+  "description": "A multimodal prototype for exploring the Galleria d'Arte Moderna in Milan through voice and vision.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
