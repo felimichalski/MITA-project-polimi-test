@@ -52,7 +52,10 @@ export default function App() {
             <p className="text-xs uppercase tracking-widest text-brand-olive font-semibold mb-1">Galleria d'Arte Moderna</p>
             <h1 className="text-4xl md:text-6xl font-bold text-brand-ink leading-none">GAM<br />Milano</h1>
           </div>
-          <div className="w-12 h-12 md:w-16 md:h-16 rounded-full bg-brand-olive flex items-center justify-center text-white shadow-lg">
+          <div className="w-12 h-12 md:w-16 md:h-16 rounded-full bg-brand-olive flex items-center justify-center text-white shadow-lg" onClick={() => {
+            setActiveTab('explore');
+            setTargetUnit(selectedUnit);
+          }}>
             <MapIcon size={24} />
           </div>
         </div>
